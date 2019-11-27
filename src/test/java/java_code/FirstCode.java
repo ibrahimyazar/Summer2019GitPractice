@@ -8,5 +8,6 @@ public class FirstCode {
         System.out.println(a + b);
         int total = a+b;
          System.out.println(("Total a+b is: ") + total );
+         String str = "Hello";
     }
 }
