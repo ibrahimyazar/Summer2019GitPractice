@@ -6,6 +6,7 @@ public class FirstCode {
         int a = 25;
         int b = 450;
         System.out.println(a + b);
-         System.out.println("Total a+b is: + total );
+        int total = a+b;
+         System.out.println(("Total a+b is: ") + total );
     }
 }
