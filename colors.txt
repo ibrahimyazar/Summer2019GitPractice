@@ -10,4 +10,4 @@ gray
 gold
 haki
 turquaz
-
+white
