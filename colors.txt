@@ -7,5 +7,7 @@ purple
 pink
 orange
 gray
+gold
+haki
 turquaz
 
