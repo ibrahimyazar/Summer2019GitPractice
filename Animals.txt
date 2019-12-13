@@ -2,3 +2,5 @@ dog
 cat
 tiger
 fox
+kedi
+koprek
