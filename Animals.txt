@@ -4,3 +4,4 @@ tiger
 fox
 kedi
 koprek
+wolf
