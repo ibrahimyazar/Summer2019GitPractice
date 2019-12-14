@@ -8,3 +8,4 @@ gold
 haki
 turquaz
 white
+dark gray
