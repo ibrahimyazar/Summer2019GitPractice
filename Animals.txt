@@ -5,3 +5,6 @@ fox
 kedi
 koprek
 wolf
+monkey
+lion
+fish
